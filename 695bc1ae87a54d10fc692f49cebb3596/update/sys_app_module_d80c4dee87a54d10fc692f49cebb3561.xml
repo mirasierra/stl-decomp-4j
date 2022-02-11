@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="7a8f93141b0b20102885a932604bcb70" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="servicenow-chi-Amalia">900c09ae87a54d10fc692f49cebb3561</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order>6</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>AC32284</sys_created_by>
+        <sys_created_on>2022-02-11 09:14:08</sys_created_on>
+        <sys_domain>7a8f93141b0b20102885a932604bcb70</sys_domain>
+        <sys_domain_path>!!!/!!#/</sys_domain_path>
+        <sys_id>d80c4dee87a54d10fc692f49cebb3561</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="servicenow-chi-Amalia" source="x_twte2_servicenow">695bc1ae87a54d10fc692f49cebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="servicenow-chi-Amalia">695bc1ae87a54d10fc692f49cebb3596</sys_scope>
+        <sys_update_name>sys_app_module_d80c4dee87a54d10fc692f49cebb3561</sys_update_name>
+        <sys_updated_by>AC32284</sys_updated_by>
+        <sys_updated_on>2022-02-11 09:14:08</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Incident Item Stream">84eb89ee87a54d10fc692f49cebb3524</item_stream>
+        <segment display_value="Incident Item Stream Segment">4ceb89ee87a54d10fc692f49cebb3523</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>AC32284</sys_created_by>
+        <sys_created_on>2022-02-11 09:13:34</sys_created_on>
+        <sys_id>cceb89ee87a54d10fc692f49cebb3524</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="servicenow-chi-Amalia" source="x_twte2_servicenow">695bc1ae87a54d10fc692f49cebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="servicenow-chi-Amalia">695bc1ae87a54d10fc692f49cebb3596</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_cceb89ee87a54d10fc692f49cebb3524</sys_update_name>
+        <sys_updated_by>AC32284</sys_updated_by>
+        <sys_updated_on>2022-02-11 09:13:34</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
